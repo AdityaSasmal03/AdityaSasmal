@@ -5,30 +5,29 @@
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif">
 </div>
 
-- 🔭 I’m currently working on [SkillSet](using MERN Stack)
+<div align="center">
+    🔭 I’m currently working on <b>SkillSet</b> (using MERN Stack)<br>
+    🌱 I’m currently learning <b>Selenium, Blender</b><br>
+    🤝 I’m looking for help with <b>Blender</b><br>
+    👨‍💻 All of my projects are available at <a href="https://github.com/AdityaSasmal03">https://github.com/AdityaSasmal03</a><br>
+    💬 Ask me about <b>Java, Web Dev</b><br>
+    📫 How to reach me <b>adityasasmalads@gmail.com</b><br>
+    📄 Know about my experiences <a href="https://adityasasmalresume.tiiny.site">https://adityasasmalresume.tiiny.site</a><br>
+    ⚡ Fun fact <b>I believe in drop a gear & disappear</b>
+</div>
 
-- 🌱 I’m currently learning **Selenium , Blender**
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+    <a href="https://linkedin.com/in/aditya-sasmal-07b13a234" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sasmal-07b13a234" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/mr._megastar" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._megastar" height="30" width="40" />
+    </a>
+</div>
 
-- 🤝 I’m looking for help with **Blender**
-
-- 👨‍💻 All of my projects are available at [https://github.com/AdityaSasmal03](https://github.com/AdityaSasmal03)
-
-- 💬 Ask me about **java , web dev**
-
-- 📫 How to reach me **adityasasmalads@gmail.com**
-
-- 📄 Know about my experiences [https://adityasasmalresume.tiiny.site](https://adityasasmalresume.tiiny.site)
-
-- ⚡ Fun fact **I believe in drop a gear & disappear**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aditya-sasmal-07b13a234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sasmal-07b13a234" height="30" width="40" /></a>
-<a href="https://instagram.com/mr._megastar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr._megastar" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<div align="center">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
     </a>
@@ -50,8 +49,12 @@
     <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
     </a>
-</p>
+</div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasasmal03&show_icons=true&locale=en&layout=compact" alt="adityasasmal03" /></p>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasasmal03&show_icons=true&locale=en&layout=compact" alt="adityasasmal03" />
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasmal03&" alt="adityasasmal03" /></p>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasmal03&" alt="adityasasmal03" />
+</div>
