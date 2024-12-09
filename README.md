@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Sasmal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="900" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 - 🔭 I’m currently working on [SkillSet](using MERN Stack)
 
