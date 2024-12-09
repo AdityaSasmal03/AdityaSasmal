@@ -5,15 +5,14 @@
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif">
 </div>
 
-<div align="center">
-    <p>🔭 I’m currently working on <b>SkillSet</b> (using MERN Stack)</p>
-    <p>🌱 I’m currently learning <b>Selenium, Blender</b></p>
-    <p>🤝 I’m looking for help with <b>Blender</b></p>
-    <p>👨‍💻 All of my projects are available at <a href="https://github.com/AdityaSasmal03">https://github.com/AdityaSasmal03</a></p>
-    <p>💬 Ask me about <b>Java, Web Dev</b></p>
-    <p>📫 How to reach me: <b>adityasasmalads@gmail.com</b></p>
-    <p>📄 Know about my experiences: <a href="https://adityasasmalresume.tiiny.site">https://adityasasmalresume.tiiny.site</a></p>
-    <p>⚡ Fun fact: <b>I believe in drop a gear & disappear</b></p>
+<div align="center" style="text-align: left; max-width: 600px;">
+    🔭 I’m currently working on <b>SkillSet</b> (using MERN Stack)<br>
+    🌱 I’m currently learning <b>Selenium, Blender</b><br>
+    🤝 I’m looking for help with <b>Blender</b><br>
+    💬 Ask me about <b>Java, Web Dev</b><br>
+    📫 How to reach me: <b>adityasasmalads@gmail.com</b><br>
+    📄 Know about my experiences: <a href="https://adityasasmalresume.tiiny.site">https://adityasasmalresume.tiiny.site</a><br>
+    ⚡ Fun fact: <b>I believe in drop a gear & disappear</b>
 </div>
 
 <h3 align="center">Connect with me:</h3>
