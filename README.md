@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Aditya Sasmal</h1>
-<h3 align="center">A passionate Software Engineer from India</h3>
+<h1 align="center" style="margin-bottom: 0;">Hi 👋, I'm Aditya Sasmal</h1>
+<h3 align="center" style="margin: 5px 0;">A passionate Software Engineer from India</h3>
 
-<div align="center">
+<div align="center" style="margin: 10px 0;">
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif">
 </div>
 
-<div align="center" style="text-align: left; max-width: 600px;">
-    🔭 I’m currently working on <b>SkillSet</b> (using MERN Stack)<br>
-    🌱 I’m currently learning <b>Selenium, Blender</b><br>
-    🤝 I’m looking for help with <b>Blender</b><br>
-    💬 Ask me about <b>Java, Web Dev</b><br>
-    📫 How to reach me: <b>adityasasmalads@gmail.com</b><br>
-    📄 Know about my experiences: <a href="https://adityasasmalresume.tiiny.site">https://adityasasmalresume.tiiny.site</a><br>
-    ⚡ Fun fact: <b>I believe in drop a gear & disappear</b>
+<div align="center" style="text-align: left; max-width: 600px; margin: 10px auto;">
+    <p style="margin: 5px 0;">🔭 I’m currently working on <b>SkillSet</b> (using MERN Stack)</p>
+    <p style="margin: 5px 0;">🌱 I’m currently learning <b>Selenium, Blender</b></p>
+    <p style="margin: 5px 0;">🤝 I’m looking for help with <b>Blender</b></p>
+    <p style="margin: 5px 0;">👨‍💻 All of my projects are available at <a href="https://github.com/AdityaSasmal03">https://github.com/AdityaSasmal03</a></p>
+    <p style="margin: 5px 0;">💬 Ask me about <b>Java, Web Dev</b></p>
+    <p style="margin: 5px 0;">📫 How to reach me: <b>adityasasmalads@gmail.com</b></p>
+    <p style="margin: 5px 0;">📄 Know about my experiences: <a href="https://adityasasmalresume.tiiny.site">https://adityasasmalresume.tiiny.site</a></p>
+    <p style="margin: 5px 0;">⚡ Fun fact: <b>I believe in drop a gear & disappear</b></p>
 </div>
 
-<h3 align="center">Connect with me:</h3>
-<div align="center">
+<h3 align="center" style="margin: 10px 0;">Connect with me:</h3>
+<div align="center" style="margin: 10px 0;">
     <a href="https://linkedin.com/in/aditya-sasmal-07b13a234" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-sasmal-07b13a234" height="30" width="40" />
     </a>
@@ -25,8 +26,8 @@
     </a>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
+<h3 align="center" style="margin: 10px 0;">Languages and Tools:</h3>
+<div align="center" style="margin: 10px 0;">
     <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
         <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
     </a>
@@ -50,10 +51,10 @@
     </a>
 </div>
 
-<div align="center">
+<div align="center" style="margin: 10px 0;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityasasmal03&show_icons=true&locale=en&layout=compact" alt="adityasasmal03" />
 </div>
 
-<div align="center">
+<div align="center" style="margin: 10px 0;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityasasmal03&" alt="adityasasmal03" />
 </div>
