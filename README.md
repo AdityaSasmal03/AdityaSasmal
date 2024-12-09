@@ -6,14 +6,14 @@
 </div>
 
 <div align="center">
-    🔭 I’m currently working on <b>SkillSet</b> (using MERN Stack)<br>
-    🌱 I’m currently learning <b>Selenium, Blender</b><br>
-    🤝 I’m looking for help with <b>Blender</b><br>
-    👨‍💻 All of my projects are available at <a href="https://github.com/AdityaSasmal03">https://github.com/AdityaSasmal03</a><br>
-    💬 Ask me about <b>Java, Web Dev</b><br>
-    📫 How to reach me <b>adityasasmalads@gmail.com</b><br>
-    📄 Know about my experiences <a href="https://adityasasmalresume.tiiny.site">https://adityasasmalresume.tiiny.site</a><br>
-    ⚡ Fun fact <b>I believe in drop a gear & disappear</b>
+    <p>🔭 I’m currently working on <b>SkillSet</b> (using MERN Stack)</p>
+    <p>🌱 I’m currently learning <b>Selenium, Blender</b></p>
+    <p>🤝 I’m looking for help with <b>Blender</b></p>
+    <p>👨‍💻 All of my projects are available at <a href="https://github.com/AdityaSasmal03">https://github.com/AdityaSasmal03</a></p>
+    <p>💬 Ask me about <b>Java, Web Dev</b></p>
+    <p>📫 How to reach me: <b>adityasasmalads@gmail.com</b></p>
+    <p>📄 Know about my experiences: <a href="https://adityasasmalresume.tiiny.site">https://adityasasmalresume.tiiny.site</a></p>
+    <p>⚡ Fun fact: <b>I believe in drop a gear & disappear</b></p>
 </div>
 
 <h3 align="center">Connect with me:</h3>
