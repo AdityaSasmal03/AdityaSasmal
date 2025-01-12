@@ -5,13 +5,15 @@
     <img alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/3004204/file/original-a03b5e672824cdc769fe1c0ce574d6d8.gif">
 </div>
 
-- 🔭 I’m currently working on [SkillSet](using MERN Stack)
+- 🔭 I’m currently working on [PiFo- Automated Pdf Operation Tool](https://github.com/AdityaSasmal03/PiFo)
 
-- 🌱 I’m currently learning **Selenium , Blender**
+- 🌱 I’m currently learning **Robotic Process Automation**
 
-- 🤝 I’m looking for help with **Blender**
+- 🤝 I’m looking to collaborate on **Automation & Testing**
 
-- 💬 Ask me about **java , web dev**
+- 👨‍💻 All of my projects are available at [https://github.com/AdityaSasmal03?tab=repositories](https://github.com/AdityaSasmal03?tab=repositories)
+  
+- 💬 Ask me about **robot , process automation**
 
 - 📫 How to reach me **adityasasmalads@gmail.com**
 
