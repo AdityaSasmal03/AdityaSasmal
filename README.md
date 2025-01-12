@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaSasmal03?tab=repositories](https://github.com/AdityaSasmal03?tab=repositories)
   
-- 💬 Ask me about **robot , process automation**
+- 💬 Ask me about **Robot & Automation**
 
 - 📫 How to reach me **adityasasmalads@gmail.com**
 
