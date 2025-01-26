@@ -9,17 +9,17 @@
 
 - 🌱 I’m currently learning **Robotic Process Automation**
 
-- 🤝 I’m looking to collaborate on **Automation & Testing**
+- 🤝 I’m looking to collaborate on **Automation & Software Testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdityaSasmal03?tab=repositories](https://github.com/AdityaSasmal03?tab=repositories)
   
-- 💬 Ask me about **Robot & Automation**
+- 💬 Ask me about **Process Automation**
 
 - 📫 How to reach me **adityasasmalads@gmail.com**
 
 - 📄 Know about my experiences [https://adityasasmalresume.tiiny.site](https://adityasasmalresume.tiiny.site)
 
-- ⚡ Fun fact **I believe in drop a gear & disappear**
+- ⚡ Fun fact **I Can , I Must & I Will**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
