@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **adityasasmalads@gmail.com**
 
-- 📄 Know more about me [https://adityasasmalresume.tiiny.site](https://adityasasmalresume.tiiny.site)
+- 📄 Know more about me [https://adityasasmalresume.drive](https://drive.google.com/file/d/1EsVp-d0Bg3igQVu7-e8hlWFQUSpj0Wcm/view?usp=sharing)
 
 - ⚡ I believe in  **" I Can , I Must & I Will "**
 
