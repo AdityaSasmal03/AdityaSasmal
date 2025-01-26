@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://adityasasmalresume.tiiny.site](https://adityasasmalresume.tiiny.site)
 
-- ⚡ Fun fact **I Can , I Must & I Will**
+- ⚡ I believe in  **" I Can , I Must & I Will "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
